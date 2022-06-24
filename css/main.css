@@ -52,6 +52,9 @@ body {
 .banner {
   position: relative;
   display: block;
+  background-color: #ffcc2d;
+  width: 50px;
+  width: 100%;
 }
 
 /* 레이아웃*/
